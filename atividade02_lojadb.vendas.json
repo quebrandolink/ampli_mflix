@@ -1,0 +1,29 @@
+[{
+  "_id": 1,
+  "name": "João",
+  "vip": 1,
+  "email": "joao@email.com",
+  "telefone": [
+    "9999-1111",
+    "8888-1111"
+  ]
+},
+{
+  "_id": 2,
+  "name": "Marcos",
+  "vip": 0,
+  "telefone": [
+    "9999-2222"
+  ]
+},
+{
+  "_id": 3,
+  "name": "Maria",
+  "vip": 1,
+  "email": "maria@email.com",
+  "telefone": [
+    "9999-3333",
+    "8888-3333",
+    "9988-3000"
+  ]
+}]
