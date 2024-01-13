@@ -1,0 +1,48 @@
+[{
+  "_id": 1,
+  "name": "João",
+  "vip": 1,
+  "email": "joao@email.com",
+  "telefone": [
+    "9999-1111",
+    "8888-1111"
+  ],
+  "endereco": {
+    "rua": "Um",
+    "numero": "1000",
+    "complemento": "Apto 1 Bloco 1",
+    "cidade": "São Paulo",
+    "estado": "SP"
+  }
+},
+{
+  "_id": 2,
+  "name": "Marcos",
+  "vip": 0,
+  "telefone": [
+    "9999-2222"
+  ],
+  "endereco": {
+    "rua": "Dois",
+    "numero": "4000",
+    "cidade": "Campinas",
+    "estado": "SP"
+  }
+},
+{
+  "_id": 3,
+  "name": "Maria",
+  "vip": 1,
+  "email": "maria@email.com",
+  "telefone": [
+    "9999-3333",
+    "8888-3333",
+    "9988-3000"
+  ],
+  "endereco": {
+    "rua": "Três",
+    "numero": "3000",
+    "cidade": "Londrina",
+    "estado": "PR"
+  }
+}]
